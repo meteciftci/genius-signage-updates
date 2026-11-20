@@ -1,8 +1,23 @@
 {
   "schema": 2,
   "packageName": "com.geniussignage",
-  "generatedAt": "2026-11-20T06:48:08Z",
+  "generatedAt": "2026-11-20T08:28:03Z",
   "releases": [
+    {
+      "versionCode": 102,
+      "versionName": "0.1.2",
+      "entitlementDate": "2026-11-20",
+      "publishedAt": "2026-11-20",
+      "apkUrls": [
+        "https://github.com/meteciftci/genius-signage-releases/releases/download/v0.1.2/genius-signage-0.1.2.apk"
+      ],
+      "sha256": "8702fff0b36ad4fcb9d89c0519768a97afb66e20d2300650075ae66e0e616af5",
+      "size": 23006469,
+      "signingCertSha256": "77e468140978127d2fe9c47d9869f3a8057872ae0e134e8c15d99e8e053e6657",
+      "minSdk": 26,
+      "title": "0.1.2",
+      "notes": "Denetim düzeltmeleri sürümü:\n- Sürüm akışı adresi artık panelden değiştirilemez; yalnız derlemede tanımlıdır (eski panel ayarı yok sayılır).\n- Akış adresi doğrulaması sıkılaştırıldı: https, boş olmayan alan adı ve kullanıcı bilgisiz olmalı; derleme ve APK teslim kontrolü aynı kuralı uygular.\n- Panel: lisans kısıtındayken devam eden dağıtım duraklatılabilir ve durdurulabilir; akış adresi tanımsızsa \"Güncellemeyi denetle\" pasif kalır."
+    },
     {
       "versionCode": 101,
       "versionName": "0.1.1",
