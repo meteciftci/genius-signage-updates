@@ -1,8 +1,23 @@
 {
   "schema": 2,
   "packageName": "com.geniussignage",
-  "generatedAt": "2026-11-20T12:28:06Z",
+  "generatedAt": "2026-11-20T14:55:13Z",
   "releases": [
+    {
+      "versionCode": 104,
+      "versionName": "0.1.4",
+      "entitlementDate": "2026-11-20",
+      "publishedAt": "2026-11-20",
+      "apkUrls": [
+        "https://github.com/meteciftci/genius-signage-releases/releases/download/v0.1.4/genius-signage-0.1.4.apk"
+      ],
+      "sha256": "8278dcea9dd8894a3ec50869cdee468d207facb2361d0a1d5f2d622e135058ad",
+      "size": 23007833,
+      "signingCertSha256": "77e468140978127d2fe9c47d9869f3a8057872ae0e134e8c15d99e8e053e6657",
+      "minSdk": 26,
+      "title": "0.1.4",
+      "notes": "Denetim düzeltmeleri sürümü:\n- Güncelleme: boş veya bilinmeyen cihaz gözleminde hazır paket silinmez; yöneticiden eski hedef kartta kalmaz; eşit sürüm hak dışıysa ayrıntı görünür; daha yeni hazır APK korunur, eski indirme parçaları temizlenir; kurulum sonuçları oturum kimliğiyle eşleşir; atlanan cihaz kurulum bitene (en çok 15 dk) kadar kontenjanda sayılır.\n- Lisans: lisans kimliği başına en yüksek seq ve belge özeti kalıcı tutulur (eski kayıt ilk kurulumda taşınır); eski seq'li belgeye dönüş…"
+    },
     {
       "versionCode": 103,
       "versionName": "0.1.3",
