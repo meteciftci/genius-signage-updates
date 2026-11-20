@@ -1,8 +1,23 @@
 {
   "schema": 2,
   "packageName": "com.geniussignage",
-  "generatedAt": "2026-11-20T06:16:59Z",
+  "generatedAt": "2026-11-20T06:48:08Z",
   "releases": [
+    {
+      "versionCode": 101,
+      "versionName": "0.1.1",
+      "entitlementDate": "2026-11-20",
+      "publishedAt": "2026-11-20",
+      "apkUrls": [
+        "https://github.com/meteciftci/genius-signage-releases/releases/download/v0.1.1/genius-signage-0.1.1.apk"
+      ],
+      "sha256": "9da74ed68ccfe5cf73723a1957464903cfbdd9cfac7696738b54c82afe2d1561",
+      "size": 23008590,
+      "signingCertSha256": "77e468140978127d2fe9c47d9869f3a8057872ae0e134e8c15d99e8e053e6657",
+      "minSdk": 26,
+      "title": "0.1.1",
+      "notes": "Lisanslama ve uzaktan güncelleme sürümü. Özet:\n- Lisans: çevrimdışı imzalı lisans (sistem başına), panelde Lisans sayfası, istek kodu ve lisans yükleme.\n- Uzaktan güncelleme: panelden güncelleme yönetimi, imzalı APK doğrulama, öncü istemci ile kademeli dağıtım, yönetici en son.\n- Güvenli kip: art arda çökmede güvenli kip ve bakım menüsünden çıkış.\n- Denetim düzeltmeleri: güncelleme kurtarması, sağlık kapısı ve durum dosyası dayanıklılığı."
+    },
     {
       "versionCode": 100,
       "versionName": "0.1.0",
