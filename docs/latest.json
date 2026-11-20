@@ -1,0 +1,22 @@
+{
+  "schema": 2,
+  "packageName": "com.geniussignage",
+  "generatedAt": "2026-11-20T06:16:59Z",
+  "releases": [
+    {
+      "versionCode": 100,
+      "versionName": "0.1.0",
+      "entitlementDate": "2026-11-20",
+      "publishedAt": "2026-11-20",
+      "apkUrls": [
+        "https://github.com/meteciftci/genius-signage-releases/releases/download/v0.1.0/genius-signage-0.1.0.apk"
+      ],
+      "sha256": "320b8744f75e794a1b7f8c9f8645e060504e236e9df881791193955da15597cd",
+      "size": 23008953,
+      "signingCertSha256": "77e468140978127d2fe9c47d9869f3a8057872ae0e134e8c15d99e8e053e6657",
+      "minSdk": 26,
+      "title": "0.1.0",
+      "notes": "İlk yayın adayı. Özet:\n- Yayın listeleri: çoklu yayın listesi, listeyi cihaz/kümeye atama, zamanlı takvim, atamaya göre oynatma ve güvenli geri dönüş.\n- Eşzamanlı oynatma: yönetici saatine göre gevşek senkron (hız ayarı ve seek ile), panelden filo/küme/cihaz ayarı.\n- Cihaz yönetimi: pil durumu, cihaz bazlı parlaklık, yön (ekran yönü) görselleri, yüklü uygulamaları listeleme/kaldırma, panelden katılım kodu.\n- Wi-Fi sihirbazı ve ağ adresi kurtarma (mDNS, adres değişimi).\n- Kiosk / Device Owner:…"
+    }
+  ]
+}
